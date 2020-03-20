@@ -29,11 +29,6 @@ Vue.component('app-container', require('./components/appContainer.vue').default)
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
- for (let index = 0; index < array.length; index++) {
-     const element = array[index];
-     
- }
-
 const app = new Vue({
     vuetify: Vuetify,
     el: '#app',

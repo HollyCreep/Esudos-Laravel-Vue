@@ -92611,10 +92611,6 @@ Vue.component('app-container', __webpack_require__(/*! ./components/appContainer
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-for (var index = 0; index < array.length; index++) {
-  var element = array[index];
-}
-
 var app = new Vue({
   vuetify: _plugins_vuetify__WEBPACK_IMPORTED_MODULE_0__["default"],
   el: '#app'
